@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1558294054 source:c:\users\andy\desktop\proyecto\proyecto-personal\nutri\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
